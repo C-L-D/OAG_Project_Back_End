@@ -1,7 +1,3 @@
-<h1 align="center">
-  Week 8 Project - Back End
-</h1>
-
 # Goal Diggers Backend API Interface
 
 Welcome to the backend documentation for 'Between Flights', an app to help you find something to do on your long layover between your flights! It contains two tables and acts as a proxy to OAG flights API to avoid CORS issues from the frontend.
@@ -21,6 +17,7 @@ PUT, PATCH, and DELETE requests to the flights table are intended for use by adm
 - This backend has been a large project to embark on, with multiple issues relating to data transformation. The issues became apparent when we considered the way that users would enter the data on the frontend application.
 
 ## License
+MIT
 
 ## Credits
 
